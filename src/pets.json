@@ -1,0 +1,130 @@
+[
+  {
+    "id": 0,
+    "name": "Frieda",
+    "picture": "images/scottish-terrier.jpeg",
+    "age": 3,
+    "breed": "Scottish Terrier",
+    "location": "Lisco, Alabama"
+  },
+  {
+    "id": 1,
+    "name": "Gina",
+    "picture": "images/pug.png",
+    "age": 2,
+    "breed": "Pug",
+    "location": "Ankara"
+  },
+  {
+    "id": 2,
+    "name": "Collins",
+    "picture": "images/french-bulldog.jpeg",
+    "age": 1,
+    "breed": "French Bulldog",
+    "location": "Kayseri"
+  },
+  {
+    "id": 3,
+    "name": "Melissa",
+    "picture": "images/boxer.jpeg",
+    "age": 2,
+    "breed": "Boxer",
+    "location": "Konya"
+  },
+  {
+    "id": 4,
+    "name": "Jeanine",
+    "picture": "images/bulldog.png",
+    "age": 2,
+    "breed": "Bulldog",
+    "location": "Bursa"
+  },
+  {
+    "id": 5,
+    "name": "Elvia",
+    "picture": "images/dalmatian.png",
+    "age": 3,
+    "breed": "Dalmatian",
+    "location": "Antalya"
+  },
+  {
+    "id": 6,
+    "name": "Latisha",
+    "picture": "images/golden-retriever.jpeg",
+    "age": 3,
+    "breed": "Golden Retriever",
+    "location": "Trabzon"
+  },
+  {
+    "id": 7,
+    "name": "Coleman",
+    "picture": "images/beagle.png",
+    "age": "1 month",
+    "breed": "Beagle",
+    "location": "Mugla"
+  },
+  {
+    "id": 8,
+    "name": "Nichole",
+    "picture": "images/afghanhound.png",
+    "age": 2,
+    "breed": "Afghan Hound",
+    "location": "Eskisehir"
+  },
+  {
+    "id": 9,
+    "name": "Fran",
+    "picture": "images/dobermann.png",
+    "age": 3,
+    "breed": "Dobermann",
+    "location": "Aydin"
+  },
+  {
+    "id": 10,
+    "name": "Leonor",
+    "picture": "images/germanshepherd.png",
+    "age": 2,
+    "breed": "German Shepherd",
+    "location": "Balikesir"
+  },
+  {
+    "id": 11,
+    "name": "Dean",
+    "picture": "images/jackrussellterrier.png",
+    "age": "2 months",
+    "breed": "Jack Russell Terrier",
+    "location": "Istanbul"
+  },
+  {
+    "id": 12,
+    "name": "Stevenson",
+    "picture": "images/poodle.png",
+    "age": 2,
+    "breed": "Poodle",
+    "location": "Izmir"
+  },
+  {
+    "id": 13,
+    "name": "Kristina",
+    "picture": "images/rottweiler.png",
+    "age": 3,
+    "breed": "Rottweiler",
+    "location": "Canakkale"
+  },
+  {
+    "id": 14,
+    "name": "Ethel",
+    "picture": "images/siberianhusky.png",
+    "age": 1,
+    "breed": "Siberian Husky",
+    "location": "Erzurum"
+  },
+  {
+    "id": 15,
+    "name": "Terry",
+    "picture": "images/sivasshepherd.png",
+    "age": 2,
+    "breed": "Sivas Shepherd",
+    "location": "Sivas"
+  }
+]
